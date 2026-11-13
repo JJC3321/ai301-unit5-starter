@@ -33,13 +33,4 @@ and claiming later is how two strangers do the same work twice.
 
 ## Your fit profile
 
-<!-- Paste this forward from your sandbox scope.md, and update it:
-it now does more work. Besides ranking the issues your rubric
-accepts, it steers WHERE the scout searches: your search-strategy.md
-queries should each trace to a sentence here, so name the languages,
-tools, and project areas you actually want to work in, and anything
-you want to avoid. It still never changes a verdict: fit cannot
-rescue an issue your rubric rejects, and cannot sink one it
-accepts. -->
-
-(Paste your fit profile here.)
+For my real-world contributions, I prioritize C++ desktop applications, libraries, and systems/tooling projects (such as Qt/C++ GUI plugins, scientific tools, and data-structure-heavy libraries), since I write C++ regularly for systems and DSA work and want hands-on experience shipping C++ changes in production open-source codebases. I am also comfortable in Python (FastAPI backends, data ingestion, CLI and AI developer tooling) and TypeScript/React as a secondary track when C++ candidates are thin. I strongly prefer bounded bug fixes and small behavioral or accessibility improvements that come with clear acceptance criteria, reproducible steps, or an existing in-repo pattern to follow. Rank lower or avoid: vague design debates, umbrella tracking issues, documentation-only typo or pure CSS/copy polish with no behavior change, and issues that require inventing product policy or redesigning core internals.
